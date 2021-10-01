@@ -1,4 +1,3 @@
-import './App.css';
 import VideosContainer from "./components/VideosContainer/VideosContainer";
 
 function App() {
